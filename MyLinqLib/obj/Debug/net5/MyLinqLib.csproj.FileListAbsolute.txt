@@ -1,0 +1,12 @@
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\LinqSelfProgrammed\MyLinqLib\bin\Debug\net5\MyLinqLib.deps.json
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\LinqSelfProgrammed\MyLinqLib\bin\Debug\net5\MyLinqLib.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\LinqSelfProgrammed\MyLinqLib\bin\Debug\net5\ref\MyLinqLib.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\LinqSelfProgrammed\MyLinqLib\bin\Debug\net5\MyLinqLib.pdb
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\LinqSelfProgrammed\MyLinqLib\obj\Debug\net5\MyLinqLib.csproj.AssemblyReference.cache
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\LinqSelfProgrammed\MyLinqLib\obj\Debug\net5\MyLinqLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\LinqSelfProgrammed\MyLinqLib\obj\Debug\net5\MyLinqLib.AssemblyInfoInputs.cache
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\LinqSelfProgrammed\MyLinqLib\obj\Debug\net5\MyLinqLib.AssemblyInfo.cs
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\LinqSelfProgrammed\MyLinqLib\obj\Debug\net5\MyLinqLib.csproj.CoreCompileInputs.cache
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\LinqSelfProgrammed\MyLinqLib\obj\Debug\net5\MyLinqLib.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\LinqSelfProgrammed\MyLinqLib\obj\Debug\net5\ref\MyLinqLib.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\LinqSelfProgrammed\MyLinqLib\obj\Debug\net5\MyLinqLib.pdb

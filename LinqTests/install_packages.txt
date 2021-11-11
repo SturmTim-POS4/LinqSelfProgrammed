@@ -1,0 +1,5 @@
+﻿Install-Package xunit -ProjectName LinqTests
+Install-Package xunit.runner.console -ProjectName LinqTests
+Install-Package xunit.runner.visualstudio -ProjectName LinqTests
+Install-Package FluentAssertions -ProjectName LinqTests
+Install-Package Microsoft.NET.Test.Sdk -ProjectName LinqTests
